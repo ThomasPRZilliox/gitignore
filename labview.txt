@@ -1,0 +1,10 @@
+# gitignore for the LabVIEW IDE
+
+# Build output directory
+builds/
+
+# Projects file that are not required
+# File created automatically to map computer names to IP addresses
+*.aliases
+# File created automatically that stores project settings that are specific to the local machine.
+*.lvlps
